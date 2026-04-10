@@ -1,11 +1,16 @@
-# 👋 Hi, I’m @abdullahkapadia
-- 👀 I’m interested in web development, machine learning, and open-source projects.
-- 🌱 I’m currently learning advanced algorithms, data structures, and exploring the latest features in Python and Java.
-- 💞️ I’m looking to collaborate on innovative software projects, particularly those involving web development and machine learning.
-- 📫 How to reach me: [Email](akapadia975@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdullah-kapadia-626213237/)
-- 😄 Pronouns: He/Him
+# Abdullah Kapadia
 
-<!---
-abdullahkapadia/abdullahkapadia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Systems programmer focused on Rust and database internals.
+I'm interested in how things work at the low level —
+storage engines, memory management, and building software that actually matters.
+
+Currently diving deep into:
+- Rust (ownership, memory, systems programming)
+- Database internals — B-Trees, LSM trees, storage engines
+- Linux and how operating systems actually work
+
+I'm not interested in building another todo app.
+I want to understand what runs underneath everything else.
+
+📫 Reach me: akapadia975@gmail.com
+🔗 LinkedIn: linkedin.com/in/abdullah-kapadia-626213237
