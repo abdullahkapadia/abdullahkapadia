@@ -13,4 +13,4 @@ I'm not interested in building another todo app.
 I want to understand what runs underneath everything else.
 
 📫 Reach me: akapadia975@gmail.com
-🔗 LinkedIn: linkedin.com/in/abdullah-kapadia-626213237
+🔗 LinkedIn: https://www.linkedin.com/in/abdullah-kapadia23/
